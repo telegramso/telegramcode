@@ -1,0 +1,2 @@
+# telegramcode
+Telegram纸飞机电报收不到验证码短信原因和解决方法
